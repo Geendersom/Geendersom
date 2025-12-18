@@ -1,4 +1,8 @@
-<h2 align="center">Olá, eu sou o Geêndersom Araújo!</h2>
+<h2 align="center">Geêndersom Araújo | Desenvolvedor Full-Stack</h2>
+
+Atuo com foco em aplicações web, automações e soluções orientadas à performance.
+Trabalho principalmente com <b>JavaScript, HTML, CSS e TypeScript</b>, com experiência na 
+criação de sistemas organizados, escaláveis e funcionais.
 
 ###
 
