@@ -28,10 +28,15 @@ in building organized, scalable, and functional systems.
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Geendersom&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+  <a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 </div>
 
 ###
